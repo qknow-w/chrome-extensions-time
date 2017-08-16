@@ -13,5 +13,6 @@
         "default_icon": "./img/icon.jpg",
         "default_popup": "popup.html",
         "default_title": "time tool"
-    }
+    },
+    "content_security_policy": "script-src 'self' https://cdn.bootcss.com; object-src 'self';"
 }
